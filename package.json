@@ -20,7 +20,7 @@
     "url": "https://github.com/marcj/css-element-queries/issues"
   },
   "homepage": "https://github.com/marcj/css-element-queries",
-  "dependencies": {
+  "devDependencies": {
     "browserify": "^6.1.0"
   }
 }
