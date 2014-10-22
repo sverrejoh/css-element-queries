@@ -1,0 +1,26 @@
+{
+  "name": "css-element-queries",
+  "version": "0.0.2",
+  "description": "Element Queries is a polyfill adding support for element based media-queries",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify index.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcj/css-element-queries"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcj/css-element-queries/issues"
+  },
+  "homepage": "https://github.com/marcj/css-element-queries",
+  "dependencies": {
+    "browserify": "^6.1.0"
+  }
+}

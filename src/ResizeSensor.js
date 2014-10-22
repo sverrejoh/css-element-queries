@@ -3,8 +3,7 @@
  * directory of this distribution and at
  * https://github.com/marcj/css-element-queries/blob/master/LICENSE.
  */
-;
-(function() {
+module.exports = (function() {
 
     /**
      * Class for dimension change detection.
